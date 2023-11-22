@@ -1,2 +1,2 @@
 django
-beautifulsoup4
+bs4
